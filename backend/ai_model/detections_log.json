@@ -1,0 +1,3464 @@
+[
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201713",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_201713.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201720",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_201720.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201725",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_201725.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201734",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_201734.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201738",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_201738.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201823",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_201823.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201836",
+    "type": "CRIME: FAST (SNATCH)",
+    "file": "ai_model/detections/Tapo_TC200C_CRIME_FAST_(SNATCH)_20251215_201836.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201849",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_201849.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201855",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_201855.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201855",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_201855.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201926",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_201926.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_201955",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_201955.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202038",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202038.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202106",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202106.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202234",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202234.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202304",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202304.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202315",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202315.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202316",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_202316.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202318",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_202318.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202331",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_202331.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202356",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202356.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202409",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202409.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202441",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202441.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202502",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202502.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202508",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202508.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202533",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202533.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202545",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202545.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202550",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202550.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202633",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202633.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202707",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202707.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202718",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_202718.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202742",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202742.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202813",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202813.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202814",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202814.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202854",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202854.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202855",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202855.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202944",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202944.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_202949",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_202949.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203012",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203012.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203026",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203026.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203047",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203047.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203053",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203053.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203115",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203115.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203156",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203156.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203219",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203219.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203236",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203236.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203303",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203303.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203342",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203342.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203348",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203348.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203350",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203350.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203354",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203354.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203403",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203403.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203417",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203417.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203421",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203421.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203425",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203425.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203429",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203429.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203433",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203433.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203444",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203444.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203448",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203448.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203456",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203456.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203502",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203502.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203506",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203506.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203510",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203510.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203511",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_203511.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203517",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_203517.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203519",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203519.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203522",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203522.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203524",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203524.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203527",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203527.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203529",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203529.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203531",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203531.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203532",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203532.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203534",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203534.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203538",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203538.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203540",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203540.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203543",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203543.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203544",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203544.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203548",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203548.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203551",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203551.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203553",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203553.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203555",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203555.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203607",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203607.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203609",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203609.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203612",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203612.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203628",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203628.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203630",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203630.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203632",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203632.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203634",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203634.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203635",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203635.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203644",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203644.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203646",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203646.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203649",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203649.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203655",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203655.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203656",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_203656.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203657",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203657.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203700",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203700.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203705",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203705.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203705",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_203705.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203712",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203712.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203714",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_203714.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203715",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_203715.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203728",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203728.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203754",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203754.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203807",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203807.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203826",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203826.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203848",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203848.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203906",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203906.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203928",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203928.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203938",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203938.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203946",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203946.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_203952",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_203952.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204026",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204026.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204032",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204032.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204045",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204045.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204059",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204059.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204106",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204106.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204122",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_204122.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204125",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_204125.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204140",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_204140.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204147",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204147.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204205",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204205.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204215",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204215.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204216",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204216.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204229",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_204229.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204256",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204256.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204310",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204310.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204344",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204344.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204348",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204348.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204358",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_204358.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204424",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204424.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204438",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204438.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204447",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_204447.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204504",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204504.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204517",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204517.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204525",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204525.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204529",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204529.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204550",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204550.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204605",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204605.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204645",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204645.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204646",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204646.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204659",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204659.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204707",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204707.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204713",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204713.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204726",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204726.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204753",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204753.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204806",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204806.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204843",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204843.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204855",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204855.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204924",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204924.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_204936",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_204936.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205005",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205005.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205016",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205016.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205046",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205046.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205056",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205056.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205127",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205127.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205137",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205137.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205213",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205213.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205224",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205224.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205230",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205230.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205230",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205230.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205231",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205231.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205238",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205238.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205242",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205242.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205251",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205251.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205251",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205251.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205320",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205320.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205330",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205330.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205332",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205332.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205342",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205342.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205410",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205410.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205411",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205411.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205429",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205429.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205448",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205448.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205453",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_205453.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205455",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_205455.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205457",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_205457.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205459",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_205459.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205508",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_205508.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205510",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205510.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205517",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_205517.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205521",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_205521.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205524",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_205524.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205529",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_205529.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205532",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_205532.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205552",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205552.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205614",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205614.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205621",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205621.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205729",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205729.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205735",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205735.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205737",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205737.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205738",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205738.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205740",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205740.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205741",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205741.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205753",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205753.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205803",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205803.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205844",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205844.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205851",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205851.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205925",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_205925.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205926",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205926.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205928",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205928.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205931",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205931.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205933",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205933.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205936",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205936.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205942",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205942.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205943",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205943.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205945",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205945.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205948",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205948.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_205952",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_205952.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210000",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210000.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210002",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210002.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210004",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210004.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210005",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210005.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210011",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210011.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210014",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210014.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210046",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_210046.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210056",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210056.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210101",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210101.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210105",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210105.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210109",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210109.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210145",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210145.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210203",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210203.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210227",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210227.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210232",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_210232.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210256",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_210256.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210306",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210306.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210327",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210327.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210357",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210357.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210414",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210414.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210442",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210442.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210459",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_210459.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210521",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210521.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210522",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_210522.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210523",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210523.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210524",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210524.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210525",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210525.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210526",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210526.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210529",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210529.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210529",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210529.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210530",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210530.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210531",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210531.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210534",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210534.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210535",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210535.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210536",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210536.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210537",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210537.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210538",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210538.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210538",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210538.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210539",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210539.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210541",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210541.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210541",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210541.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210544",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210544.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210545",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210545.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210548",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210548.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210551",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210551.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210553",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210553.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210558",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210558.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210600",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210600.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210602",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210602.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210603",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_210603.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210607",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210607.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210611",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210611.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210614",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210614.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210617",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210617.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210620",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210620.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210622",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210622.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210624",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210624.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210627",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210627.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210630",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210630.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210637",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210637.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210638",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210638.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210641",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210641.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210643",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210643.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210646",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210646.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210648",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210648.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210649",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210649.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210651",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210651.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210657",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210657.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210659",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210659.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210702",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_210702.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210708",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210708.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210732",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210732.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210748",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_210748.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210822",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210822.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210831",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_210831.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210847",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_210847.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_210945",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_210945.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211005",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211005.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211012",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211012.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211012",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211012.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211101",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211101.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211102",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211102.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211108",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211108.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211113",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211113.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211124",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211124.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211131",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211131.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211135",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211135.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211147",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211147.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211150",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211150.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211153",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211153.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211158",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211158.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211201",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211201.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211205",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211205.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211215",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211215.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211253",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211253.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211257",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211257.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211259",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211259.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211340",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211340.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211349",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211349.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211351",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211351.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211446",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211446.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211457",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211457.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211526",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211526.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211538",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211538.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211615",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211615.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211642",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211642.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211646",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211646.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211658",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211658.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211714",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211714.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211730",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211730.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211732",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211732.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211736",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211736.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211812",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_211812.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211833",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211833.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211835",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211835.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211841",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211841.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211843",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211843.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211845",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211845.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211846",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211846.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211848",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211848.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211853",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211853.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211857",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211857.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211859",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211859.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211903",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211903.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211911",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211911.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211916",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211916.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211921",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211921.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211924",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211924.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211927",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211927.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211928",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211928.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211935",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_211935.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_211947",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_211947.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212034",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_212034.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212054",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_212054.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212108",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_212108.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212237",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_212237.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212249",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_212249.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212355",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_212355.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212416",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212416.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212420",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212420.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212423",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212423.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212427",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212427.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212428",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212428.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212525",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_212525.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212554",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_212554.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212616",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212616.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212617",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212617.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212620",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212620.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212624",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212624.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212627",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212627.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212629",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212629.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212631",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212631.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212634",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212634.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212636",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212636.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212638",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212638.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212644",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212644.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212646",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212646.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212648",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212648.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212653",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212653.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212659",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212659.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212703",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212703.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212706",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212706.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212712",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212712.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212716",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212716.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212719",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212719.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212726",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212726.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212731",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212731.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212733",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212733.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212734",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212734.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212738",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212738.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212743",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212743.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212751",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212751.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212755",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212755.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212800",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212800.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212805",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212805.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212806",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212806.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212807",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212807.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212808",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212808.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212811",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212811.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212814",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212814.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212817",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212817.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212818",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212818.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212820",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212820.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212820",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212820.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212824",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212824.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212826",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212826.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212828",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212828.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212828",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212828.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212830",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212830.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212832",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212832.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212832",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212832.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212833",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212833.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212836",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212836.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212836",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212836.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212840",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212840.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212842",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212842.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212846",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212846.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212848",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212848.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212850",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212850.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212853",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212853.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212853",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212853.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212857",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212857.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212901",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212901.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212901",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212901.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212903",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212903.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212905",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212905.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212909",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212909.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212912",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212912.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212912",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212912.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212916",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212916.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212917",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212917.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212919",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212919.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212919",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212919.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212921",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212921.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212924",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212924.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212927",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212927.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212930",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212930.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212930",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212930.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212932",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212932.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212932",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212932.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212934",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212934.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212934",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212934.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212937",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212937.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212938",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212938.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212941",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212941.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212944",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_212944.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212945",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212945.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212947",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212947.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212948",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212948.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212950",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212950.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212950",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212950.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212953",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212953.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212953",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212953.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212955",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212955.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212957",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212957.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_212958",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_212958.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213004",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213004.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213006",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_213006.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213008",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213008.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213012",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213012.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213022",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213022.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213027",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213027.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213031",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213031.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213034",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213034.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213038",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213038.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213042",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213042.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213048",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213048.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213050",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213050.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213052",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213052.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213054",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213054.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213056",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213056.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213057",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_213057.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213104",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213104.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213110",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213110.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213116",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213116.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213118",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213118.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213121",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213121.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213123",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213123.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213125",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213125.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213126",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213126.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213129",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213129.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213132",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213132.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213136",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213136.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213138",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213138.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213140",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213140.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213143",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213143.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213146",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213146.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213148",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213148.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213150",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213150.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213151",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213151.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213153",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213153.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213156",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213156.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213158",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213158.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213203",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213203.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213205",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213205.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213210",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213210.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213212",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213212.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213215",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213215.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213217",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213217.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213219",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213219.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213225",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213225.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213230",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213230.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213233",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213233.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213236",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213236.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213239",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213239.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213243",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213243.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213244",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213244.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213246",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_213246.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213247",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213247.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213249",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213249.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213257",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213257.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213300",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213300.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213302",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213302.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213304",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213304.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213308",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213308.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213312",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_213312.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213312",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213312.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213314",
+    "type": "Pacing",
+    "file": "ai_model/detections/Tapo_TC200C_Pacing_20251215_213314.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213319",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_213319.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213319",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_213319.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213551",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_213551.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213557",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_213557.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213620",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_213620.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213645",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_213645.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213714",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_213714.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_213946",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_213946.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214047",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_214047.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214119",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_214119.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214346",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_214346.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214357",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_214357.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214440",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_214440.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214524",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_214524.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214535",
+    "type": "Scanning (Suspicious)",
+    "file": "ai_model/detections/Tapo_TC200C_Scanning_(Suspicious)_20251215_214535.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214616",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_214616.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214632",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_214632.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214713",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_214713.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214755",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_214755.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214839",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_214839.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_214920",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_214920.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215001",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215001.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215044",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215044.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215125",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215125.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215206",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215206.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215246",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215246.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215327",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215327.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215408",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215408.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215444",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215444.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215532",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215532.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215612",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215612.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215652",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215652.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215734",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215734.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_215815",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_215815.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_222819",
+    "type": "Loitering",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_20251215_222819.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223226",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223226.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223307",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223307.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223338",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223338.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223419",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223419.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223459",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223459.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223540",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223540.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223620",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223620.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223700",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223700.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223708",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223708.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223749",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223749.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223829",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223829.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223909",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223909.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223917",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223917.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_223958",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_223958.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_224038",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_224038.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_224200",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_224200.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_224240",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_224240.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_232539",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_232539.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_232619",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_232619.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_232650",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_232650.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_232730",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_232730.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_232831",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_232831.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_232912",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_232912.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_232953",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_232953.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233022",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233022.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233103",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233103.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233126",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233126.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233203",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233203.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233253",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233253.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233333",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233333.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233415",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233415.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233455",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233455.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233535",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233535.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233616",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233616.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233657",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233657.mp4"
+  },
+  {
+    "camera": "Tapo_TC200C",
+    "timestamp": "20251215_233738",
+    "type": "Loitering (Still)",
+    "file": "ai_model/detections/Tapo_TC200C_Loitering_(Still)_20251215_233738.mp4"
+  }
+]

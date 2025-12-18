@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom global styles mo dito */
+html, body, #root {
+  font-family: 'MyFont', sans-serif; /* gagamitin na niya yung font na dinefine sa index.html */
+  background: #f1f1f1;
+  color: #1e2432;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
